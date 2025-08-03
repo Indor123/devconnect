@@ -1,7 +1,6 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +17,14 @@
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.17.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indor123/devconnect.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Indor123/devconnect/issues"
+  },
+  "homepage": "https://github.com/Indor123/devconnect#readme",
+  "description": ""
 }
